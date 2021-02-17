@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Catblackgallery/static/css/main.873e5824.chunk.css",
+    "main.js": "/Catblackgallery/static/js/main.e8f17a28.chunk.js",
+    "main.js.map": "/Catblackgallery/static/js/main.e8f17a28.chunk.js.map",
+    "runtime-main.js": "/Catblackgallery/static/js/runtime-main.33fac6a7.js",
+    "runtime-main.js.map": "/Catblackgallery/static/js/runtime-main.33fac6a7.js.map",
+    "static/js/2.40fd2afb.chunk.js": "/Catblackgallery/static/js/2.40fd2afb.chunk.js",
+    "static/js/2.40fd2afb.chunk.js.map": "/Catblackgallery/static/js/2.40fd2afb.chunk.js.map",
+    "static/js/3.71ab6d55.chunk.js": "/Catblackgallery/static/js/3.71ab6d55.chunk.js",
+    "static/js/3.71ab6d55.chunk.js.map": "/Catblackgallery/static/js/3.71ab6d55.chunk.js.map",
+    "index.html": "/Catblackgallery/index.html",
+    "static/css/main.873e5824.chunk.css.map": "/Catblackgallery/static/css/main.873e5824.chunk.css.map",
+    "static/js/2.40fd2afb.chunk.js.LICENSE.txt": "/Catblackgallery/static/js/2.40fd2afb.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.33fac6a7.js",
+    "static/js/2.40fd2afb.chunk.js",
+    "static/css/main.873e5824.chunk.css",
+    "static/js/main.e8f17a28.chunk.js"
+  ]
+}
