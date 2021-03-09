@@ -1,4 +1,4 @@
-const tattoos = [
+const cats = [
   { title: "แสนสวย 01", thumbnailUrl: "https://i.ibb.co/By6JfTw/1.jpg" },
   { title: "แสนสวย 02", thumbnailUrl: "https://i.ibb.co/vxRVqG1/2.jpg" },
   { title: "แสนสวย 03", thumbnailUrl: "https://i.ibb.co/5M1KtWZ/3.jpg" },
@@ -11,4 +11,4 @@ const tattoos = [
   { title: "แสนสวย 10", thumbnailUrl: "https://i.ibb.co/BghrXTP/10.jpg" },
 ];
 
-export default tattoos;
+export default cats;

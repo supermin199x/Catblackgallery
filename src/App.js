@@ -4,7 +4,7 @@ import AppHeader from './components/AppHeader';
 import AppSearch from './components/AppSearch';
 import TattooItem from './components/TattooItem';
 import TattooPost from './components/TattooPost';
-import tattoos from './data/tattoos';
+import cats from './data/cats';
 
 function App() {
     const [selectedTattoo, setSelectedTattoo] = useState(null);
@@ -18,7 +18,7 @@ function App() {
         setSelectedTattoo(null);
     }
 
-    const tattooItems = tattoos.filter((tattoo) => {
+    const tattooItems = cats.filter((tattoo) => {
         return tattoo.title.includes(searchText);
     }).map((tattoo, index) => {
         return <TattooItem key={index} tattoo={tattoo} onTattooClick={onTattooOpenClick} />;
